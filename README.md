@@ -63,9 +63,8 @@
 
 ## 🤝 Connect with Me
 
-- **GitHub:** [@avneeshsingh0](https://github.com/avneeshsingh0)  
-- **LinkedIn:** *(Add your link here)*  
-- **Email:** *(Add your email here if you want)*  
+- **GitHub:** [@avneeshsingh0](https://github.com/avneeshsingh0)   
+- **Email:** *(avneeshsingh0999@gmail.com)*  
 
 ---
 

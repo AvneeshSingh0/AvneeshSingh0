@@ -25,14 +25,13 @@
 
 <p align="center">
   <a href="https://github.com/avneeshsingh0">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=avneeshsingh0& BasicCalculator &theme=radical" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=avneeshsingh0&repo=Memory-Game-For-love-v2&theme=radical" />
   </a>
   <a href="https://github.com/avneeshsingh0">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=avneeshsingh0&repo=Express-You-Love&theme=radical" />
   </a>
 </p>
 
-*(Replace `your-repo-1` and `your-repo-2` with real repository names)*
 
 ---
 
